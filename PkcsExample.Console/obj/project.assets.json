@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Pkcs11Interop/5.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Pkcs11Interop.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Pkcs11Interop.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pkcs11Interop/5.1.2": {
+      "sha512": "5GHN9GHxfcyUejK761wkdJsRqvDO8Z3ET6gaSE0o0O/1HD3VttKojDgsGnqQ0AA0M7SyZjhFs0XJtG/ZKWAvRQ==",
+      "type": "package",
+      "path": "pkcs11interop/5.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICE.txt",
+        "Pkcs11Interop.png",
+        "lib/net20/Pkcs11Interop.dll",
+        "lib/net20/Pkcs11Interop.xml",
+        "lib/net40/Pkcs11Interop.dll",
+        "lib/net40/Pkcs11Interop.xml",
+        "lib/net45/Pkcs11Interop.dll",
+        "lib/net45/Pkcs11Interop.xml",
+        "lib/netstandard2.0/Pkcs11Interop.dll",
+        "lib/netstandard2.0/Pkcs11Interop.xml",
+        "pkcs11interop.5.1.2.nupkg.sha512",
+        "pkcs11interop.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Pkcs11Interop >= 5.1.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ebubekir\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ebubekir\\RiderProjects\\PkcsExample\\PkcsExample.Console\\PkcsExample.Console.csproj",
+      "projectName": "PkcsExample.Console",
+      "projectPath": "C:\\Users\\Ebubekir\\RiderProjects\\PkcsExample\\PkcsExample.Console\\PkcsExample.Console.csproj",
+      "packagesPath": "C:\\Users\\Ebubekir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ebubekir\\RiderProjects\\PkcsExample\\PkcsExample.Console\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ebubekir\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Pkcs11Interop": {
+            "target": "Package",
+            "version": "[5.1.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
