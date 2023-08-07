@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ebubekir\\RiderProjects\\PkcsExample\\PkcsExample.Console\\PkcsExample.Console.csproj": {}
+    "/Users/ebubekir.ergun/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/PkcsExample.Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ebubekir\\RiderProjects\\PkcsExample\\PkcsExample.Console\\PkcsExample.Console.csproj": {
+    "/Users/ebubekir.ergun/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/PkcsExample.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ebubekir\\RiderProjects\\PkcsExample\\PkcsExample.Console\\PkcsExample.Console.csproj",
+        "projectUniqueName": "/Users/ebubekir.ergun/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/PkcsExample.Console.csproj",
         "projectName": "PkcsExample.Console",
-        "projectPath": "C:\\Users\\Ebubekir\\RiderProjects\\PkcsExample\\PkcsExample.Console\\PkcsExample.Console.csproj",
-        "packagesPath": "C:\\Users\\Ebubekir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ebubekir\\RiderProjects\\PkcsExample\\PkcsExample.Console\\obj\\",
+        "projectPath": "/Users/ebubekir.ergun/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/PkcsExample.Console.csproj",
+        "packagesPath": "/Users/ebubekir.ergun/.nuget/packages/",
+        "outputPath": "/Users/ebubekir.ergun/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ebubekir\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/ebubekir.ergun/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://git.procenne.corp/api/v4/groups/977/-/packages/nuget/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -54,30 +55,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.16, 6.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-preview.5.23303.2/RuntimeIdentifierGraph.json"
         }
       }
     }

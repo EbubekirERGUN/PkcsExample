@@ -1,14 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pxWbzcgD5JQEl/53qCm/AE0yQDbN6/SubMQ3mb4Ibf+hxuG9Q/mGlpuoXuDCIyoxmqFrtLxwO/gH3dlnd8Ya2w==",
+  "dgSpecHash": "whHeUm/FGnw2jfzjB2R7eOZb26qF5ZoFLEYMo1/L3RUk9eZnuSe6v5X+bbIIhrjwe5uzETmsW5il7GVCE7O4vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ebubekir\\RiderProjects\\PkcsExample\\PkcsExample.Console\\PkcsExample.Console.csproj",
+  "projectFilePath": "/Users/ebubekir.ergun/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/PkcsExample.Console.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ebubekir\\.nuget\\packages\\pkcs11interop\\5.1.2\\pkcs11interop.5.1.2.nupkg.sha512",
-    "C:\\Users\\Ebubekir\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Ebubekir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Ebubekir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\Ebubekir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+    "/Users/ebubekir.ergun/.nuget/packages/pkcs11interop/5.1.2/pkcs11interop.5.1.2.nupkg.sha512"
   ],
   "logs": []
 }

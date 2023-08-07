@@ -1,0 +1,17 @@
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/bin/Debug/net6.0/PkcsExample.Console.exe
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/bin/Debug/net6.0/PkcsExample.Console.deps.json
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/bin/Debug/net6.0/PkcsExample.Console.runtimeconfig.json
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/bin/Debug/net6.0/PkcsExample.Console.dll
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/bin/Debug/net6.0/PkcsExample.Console.pdb
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/bin/Debug/net6.0/Pkcs11Interop.dll
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/PkcsExample.Console.csproj.AssemblyReference.cache
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/PkcsExample.Console.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/PkcsExample.Console.AssemblyInfoInputs.cache
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/PkcsExample.Console.AssemblyInfo.cs
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/PkcsExample.Console.csproj.CoreCompileInputs.cache
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/PkcsExample.Console.csproj.CopyComplete
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/PkcsExample.Console.dll
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/refint/PkcsExample.Console.dll
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/PkcsExample.Console.pdb
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/PkcsExample.Console.genruntimeconfig.cache
+//Mac/Home/Documents/Documents/OtherProject/PkcsExample/PkcsExample.Console/obj/Debug/net6.0/ref/PkcsExample.Console.dll
